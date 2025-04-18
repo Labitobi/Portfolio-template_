@@ -22,4 +22,4 @@ Welcome to this modern developer portfolio template built with **Next.js**, **Ta
 3. Install dependencies:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
